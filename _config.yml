@@ -34,8 +34,10 @@ youtube_username                          :
 
 # Feature ListEdit, add or remove features to be presented.
 
-calendarembedded: https://outlook.office365.com/calendar/published/14ecbcb3c8744eb5a929e823ee4d6781@uninorte.edu.co/cad9ff4aef70475b8d622824f6acad9c7725411810377447406/calendar.html
 features                                  :
+
+calendarembedded: https://outlook.office365.com/calendar/published/14ecbcb3c8744eb5a929e823ee4d6781@uninorte.edu.co/cad9ff4aef70475b8d622824f6acad9c7725411810377447406/calendar.html
+
 
   - title                                 : GitHub Pages Jekyll Theme
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
